@@ -1,0 +1,1 @@
+# efi-hackintosh-bigsur-lenovo-ideapad-130-14IKB
